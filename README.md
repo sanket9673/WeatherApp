@@ -1,1 +1,1 @@
-#Weather Forecast Application with integration with OpenWeather API
+Weather Forecast Application integrated with OpenWeather API
